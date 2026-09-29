@@ -1,14 +1,14 @@
 ## Hi, I'm Vincent Inferido
 
-**Full-Stack Developer · Web3 · UX/UI**, based in the Philippines (UTC+8)
+**Full-Stack Product Builder · Business Systems & CRM · Web3 · UX/UI**, based in the Philippines (UTC+8)
 
-I design and build web products from start to finish. I take them from the first Figma concept through a production Next.js app to launch on Vercel, and I add smart contracts when a product needs them. I use AI across that whole process to move faster, and I check everything it produces before it ships.
+I design and build web products from start to finish: **business systems like CRMs and admin dashboards**, **full-stack web apps** and **Web3 dApps**. I take each one from the first Figma concept through a production Next.js app to launch on Vercel, and I add smart contracts when a product needs them. I use AI across that whole process to move faster, and I check everything it produces before it ships.
 
-Open to **full-stack, frontend and Web3 roles**, and to freelance projects.
+Open to **full-stack, frontend, business-systems and Web3 roles**, and to freelance projects.
 
 ### What sets me apart
 
-- **Three skills in one person.** I design the interface, build the app and write the contract myself, so nothing gets lost handing work between separate designers and developers.
+- **Three skills in one person.** I design the interface, build the app, model the database and write the contract myself, so nothing gets lost handing work between separate designers and developers.
 - **AI speeds me up, but I check the results.** I use several AI tools (Claude, Cursor, Copilot, Perplexity) and don't depend on any one provider. I review, test and understand everything an AI writes before it ships.
 - **Deep context makes better prompts.** Knowing Web3, UX and full-stack development lets me give AI tools precise, well-constrained instructions, which gets usable results on the first or second try.
 - **I combine tools into one workflow.** Design, code, research and documentation tools feed into each other instead of sitting apart.
@@ -19,11 +19,13 @@ Open to **full-stack, frontend and Web3 roles**, and to freelance projects.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Overland Ready**](https://github.com/vincentinferido-a11y/overland-ready) · [live](https://overland-ready-eta.vercel.app) | Gear review site with an embedded Sanity Studio CMS, dynamic review pages and an affiliate-link system | Next.js 16, React 19, TypeScript, Tailwind v4, Sanity, Vercel |
-| **HiKIDAI** · [live](https://hikidai-web.vercel.app) | Learning platform with a CMS, database backend and embedded games (source is private) | Next.js, TypeScript, Supabase, Sanity, Tailwind |
+| **HiKIDAI** · relaunching soon | Learning platform with a CMS, database backend and embedded games (source is private) | Next.js, TypeScript, Supabase, Sanity, Tailwind |
+| **CRM System** · in development | Custom CRM for managing contacts, deals and follow-ups (case study coming soon) | Next.js, TypeScript, PostgreSQL, Figma |
 
 ### Tech stack
 
 **Full-stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Supabase · Sanity CMS · NextAuth.js / Clerk · Stripe · Vercel  
+**Business systems:** CRM and sales pipelines · admin dashboards · role-based access · auth · payments and integrations  
 **Web3:** Solidity · Hardhat · ethers.js · wagmi · RainbowKit · The Graph  
 **UX/UI:** Figma · Framer · design systems · user research (Hotjar, Maze)  
 **AI in products:** OpenAI API · Vercel AI SDK
@@ -86,4 +88,5 @@ Open to **full-stack, frontend and Web3 roles**, and to freelance projects.
 ### Right now
 
 - Building my developer portfolio site (it will be published here)
-- Adding more open-source and Web3 projects to this profile
+- Building a custom CRM system
+- Adding more open-source, business-system and Web3 projects to this profile
