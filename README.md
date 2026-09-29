@@ -39,7 +39,27 @@ Open to **full-stack, frontend and Web3 roles**, and to freelance projects.
 | **Document and ship** | Mintlify · Claude · Vercel | Clear READMEs, API docs and case studies, deployed continuously |
 
 <details>
-<summary><b>My full daily workflow</b></summary>
+<summary><b>My AI toolkit and daily workflow</b></summary>
+
+#### AI coding assistants
+
+| Tool | What I use it for |
+| --- | --- |
+| **Claude Code** (Anthropic) | Complex reasoning, architecture decisions, code reviews |
+| **Cursor** (Claude / GPT-4) | AI pair programming inside the editor |
+| **GitHub Copilot** | Inline code completion, quick boilerplate |
+| **Codex** (OpenAI) | Code generation, explanations, translating code between languages |
+
+#### AI research and information
+
+| Tool | What I use it for |
+| --- | --- |
+| **Perplexity AI** | Fast research, fact-checking, finding technical docs |
+| **Emergent AI** | Discovering new tools, tracking trends |
+| **Phind** | Developer search with code examples |
+| **You.com** | Alternative search with a code mode |
+
+#### Daily workflow
 
 **Development**
 1. **Planning:** Perplexity for research, Notion AI to break work into tasks
