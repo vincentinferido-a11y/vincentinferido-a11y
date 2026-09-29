@@ -1,6 +1,6 @@
 ## Hi, I'm Vincent Inferido
 
-**Full-Stack Product Builder · Business Systems & CRM · Web3 · UX/UI**, based in the Philippines (UTC+8)
+**Full-Stack Engineer & Designer · CRMs & Business Systems · Web3 · UX/UI**, based in the Philippines (UTC+8)
 
 I design and build web products from start to finish: **business systems like CRMs and admin dashboards**, **full-stack web apps** and **Web3 dApps**. I take each one from the first Figma concept through a production Next.js app to launch on Vercel, and I add smart contracts when a product needs them. I use AI across that whole process to move faster, and I check everything it produces before it ships.
 
