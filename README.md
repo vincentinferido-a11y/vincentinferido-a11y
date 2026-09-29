@@ -6,7 +6,7 @@ I design and build web products from start to finish: **business systems like CR
 
 Open to **full-stack, frontend, business-systems and Web3 roles**, and to freelance projects.
 
-**Portfolio:** https://vincentinferido-a11y.github.io/
+**Portfolio:** https://vincentinferido-a11y.github.io/ · **X:** [@web3boyaxdev](https://x.com/web3boyaxdev) · **LinkedIn:** [vincentci](https://www.linkedin.com/in/vincentci/)
 
 ### What sets me apart
 
