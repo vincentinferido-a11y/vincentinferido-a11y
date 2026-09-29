@@ -32,7 +32,7 @@ Open to **full-stack, frontend, business-systems and Web3 roles**, and to freela
 
 ### Tech stack
 
-**Full-stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Supabase · Sanity CMS · NextAuth.js / Clerk · Stripe · Vercel  
+**Full-stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Supabase · Firebase (Firestore, Hosting) · Sanity CMS · NextAuth.js / Clerk · Stripe · Vercel  
 **Business systems:** CRM and sales pipelines · admin dashboards · role-based access · auth · payments and integrations  
 **Web3:** Solidity · Hardhat · ethers.js · wagmi · RainbowKit · The Graph  
 **UX/UI:** Figma · Framer · design systems · user research (Hotjar, Maze)  
