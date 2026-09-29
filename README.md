@@ -6,6 +6,8 @@ I design and build web products from start to finish: **business systems like CR
 
 Open to **full-stack, frontend, business-systems and Web3 roles**, and to freelance projects.
 
+**Portfolio:** https://vincentinferido-a11y.github.io/
+
 ### What sets me apart
 
 - **Three skills in one person.** I design the interface, build the app, model the database and write the contract myself, so nothing gets lost handing work between separate designers and developers.
@@ -21,6 +23,10 @@ Open to **full-stack, frontend, business-systems and Web3 roles**, and to freela
 | [**Overland Ready**](https://github.com/vincentinferido-a11y/overland-ready) · [live](https://overland-ready-eta.vercel.app) | Gear review site with an embedded Sanity Studio CMS, dynamic review pages and an affiliate-link system | Next.js 16, React 19, TypeScript, Tailwind v4, Sanity, Vercel |
 | **HiKIDAI** · relaunching soon | Learning platform with a CMS, database backend and embedded games (source is private) | Next.js, TypeScript, Supabase, Sanity, Tailwind |
 | **CRM System** · in development | Custom CRM for managing contacts, deals and follow-ups (case study coming soon) | Next.js, TypeScript, PostgreSQL, Figma |
+| [**TS Task Control**](https://github.com/vincentinferido-a11y/ts-task-control-ui) · [prototype](https://vincentinferido-a11y.github.io/ts-task-control-ui/) | Operations dashboard UI system: agent roster, booking execution pipeline, audit review | Google Stitch, Tailwind, custom design system |
+| [**BoyaxDev Marketplace**](https://github.com/vincentinferido-a11y/boyaxdev-marketplace-ui) · [prototype](https://vincentinferido-a11y.github.io/boyaxdev-marketplace-ui/) | Website-marketplace UI system: faceted inventory, asset data room, gated buyer access | Google Stitch, Tailwind, custom design system |
+| [**SkinStack**](https://github.com/vincentinferido-a11y/skinstack-ui) · [prototype](https://vincentinferido-a11y.github.io/skinstack-ui/) | Skincare review site UI system: reviews, category directory, buying guides | Google Stitch, Tailwind, custom design system |
+| [**This portfolio**](https://github.com/vincentinferido-a11y/vincentinferido-a11y.github.io) · [live](https://vincentinferido-a11y.github.io/) | Portfolio with multichain live data (6 EVM chains + Solana) and EVM/Solana wallet connection | HTML, Tailwind, JavaScript |
 
 ### Tech stack
 
@@ -87,6 +93,5 @@ Open to **full-stack, frontend, business-systems and Web3 roles**, and to freela
 
 ### Right now
 
-- Building my developer portfolio site (it will be published here)
 - Building a custom CRM system
 - Adding more open-source, business-system and Web3 projects to this profile
