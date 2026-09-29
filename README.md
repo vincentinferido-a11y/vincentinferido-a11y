@@ -20,8 +20,8 @@ Open to **full-stack, frontend, business-systems and Web3 roles**, and to freela
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**Overland Ready**](https://github.com/vincentinferido-a11y/overland-ready) · [live](https://overland-ready-eta.vercel.app) | Gear review site with an embedded Sanity Studio CMS, dynamic review pages and an affiliate-link system | Next.js 16, React 19, TypeScript, Tailwind v4, Sanity, Vercel |
-| [**RemitOtter**](https://github.com/vincentinferido-a11y/remitotter) · [demo](https://solana-meme-bank.preview.emergentagent.com) | Solana meme-coin platform demo: ambassador quests, automated buyback-and-burn ledger, War Room dashboard, partner API | Next.js 15, MongoDB, Tailwind, shadcn/ui |
+| [**Overland Ready**](https://overland-ready-eta.vercel.app) · [live](https://overland-ready-eta.vercel.app) | Gear review site with an embedded Sanity Studio CMS, dynamic review pages and an affiliate-link system | Next.js 16, React 19, TypeScript, Tailwind v4, Sanity, Vercel |
+| [**RemitOtter**](https://solana-meme-bank.preview.emergentagent.com) · [demo](https://solana-meme-bank.preview.emergentagent.com) | Solana meme-coin platform demo: ambassador quests, automated buyback-and-burn ledger, War Room dashboard, partner API | Next.js 15, MongoDB, Tailwind, shadcn/ui |
 | **HiKIDAI** · relaunching soon | Learning platform with a CMS, database backend and embedded games (source is private) | Next.js, TypeScript, Supabase, Sanity, Tailwind |
 | **CRM System** · in development | Custom CRM for managing contacts, deals and follow-ups (case study coming soon) | Next.js, TypeScript, PostgreSQL, Figma |
 | [**TS Task Control**](https://github.com/vincentinferido-a11y/ts-task-control-ui) · [prototype](https://vincentinferido-a11y.github.io/ts-task-control-ui/) | Operations dashboard UI system: agent roster, booking execution pipeline, audit review | Google Stitch, Tailwind, custom design system |
